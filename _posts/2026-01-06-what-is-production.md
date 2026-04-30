@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "What is Production?"
-date:   2026-01-06 18:28:33 -0500
+title: "What is Production?"
+subtitle: "The most important question in game development"
+date: 2026-01-06 18:28:33 -0500
+background: '/img/bg-post.jpg'
 categories: jekyll update
 ---
 Depending on who you ask or where you work, the question “What does production do?” can elicit answers that cover the complete spectrum of skills relevant to development or project completion. I find this variety interesting as it allows for various skill profiles to find success in the job, but certainly, there has to be a key responsibility of the role.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Production Matters, LLC
+background: '/img/bg-about.jpg'
 permalink: /about/
 ---
 

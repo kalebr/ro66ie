@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(bundle exec *)",
+      "Read(//tmp/clean-blog-theme/**)",
+      "Read(//tmp/clean-blog-theme/_includes/**)",
+      "Bash(cp /tmp/clean-blog-theme/img/bg-index.jpg \"/c/Users/robbi/seadrive_root/robbie.e/My Libraries/Dev/production_matters/img/bg-index.jpg\")",
+      "Bash(cp /tmp/clean-blog-theme/img/bg-post.jpg \"/c/Users/robbi/seadrive_root/robbie.e/My Libraries/Dev/production_matters/img/bg-post.jpg\")",
+      "Bash(cp /tmp/clean-blog-theme/img/bg-about.jpg \"/c/Users/robbi/seadrive_root/robbie.e/My Libraries/Dev/production_matters/img/bg-about.jpg\")",
+      "Bash(bundle install *)"
+    ]
+  }
+}
